@@ -26,5 +26,10 @@
     "eslint-plugin-react-refresh": "^0.5.3",
     "globals": "^17.7.0",
     "vite": "^8.2.0"
-  }
+  },
+  "homepage": "https://<your-username>.github.io/<your-repo-name>",
+  "predeploy": "npm run build",
+"deploy": "gh-pages -d dist" 
+
+
 }
