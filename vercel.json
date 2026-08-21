@@ -1,0 +1,1 @@
+{"framework": "create-react-app", "buildCommand": "cd \"react-to do-list\" && npm run build", "outputDirectory": "react-to do-list/build"}
